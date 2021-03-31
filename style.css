@@ -1,0 +1,13 @@
+body {
+    background-color: gold text-size: 50 text-size:100;
+    text-align: left;
+}
+
+h1 {
+    color: red;
+    border-style: arial;
+    border-color: white;
+
+    .img {
+        width: 50%;
+    }
